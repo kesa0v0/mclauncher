@@ -18,7 +18,7 @@
 ## 🛠️ 기술 스택
 
 ### 클라이언트 (Client)
-- **Framework:** React, Electron
+- **Framework:** React, Electron, Vite
 - **Language:** TypeScript
 - **Core Logic:** [minecraft-java-core](https://github.com/luuxis/minecraft-java-core)
 
