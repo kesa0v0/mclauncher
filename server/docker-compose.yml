@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    user: "1000:1000"
+    volumes:
+      - .:/app
+    networks:
+      - proxy
+
+
+networks:
+  proxy:
+    external: true
